@@ -1,0 +1,16 @@
+{
+    "name": "ObjectsCanvas",
+    "rootNamespace": "",
+    "references": [
+        "GUID:192b4705d23a6164e9fe4ed8d9c01f47"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
